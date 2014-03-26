@@ -1,0 +1,14 @@
+{
+    "name": "michael9580/jimmy",
+    "description": "This is some description text",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Michael Mandatp",
+            "email": "michael@dreamfactory.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.18"
+    }
+}
